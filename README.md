@@ -1,2 +1,2 @@
-# Student-Attendance-Monitoring
-SIH HACKATHON
+# House price prediction model
+
